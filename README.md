@@ -6,3 +6,6 @@
 
 '''py
 print("Hello, GitHub)
+
+
+![gracie](./gracie.gif)
